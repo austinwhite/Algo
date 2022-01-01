@@ -1,1 +1,4 @@
 # AlgoExpert
+
+| Question | Difficulty |
+|----------|------------|
