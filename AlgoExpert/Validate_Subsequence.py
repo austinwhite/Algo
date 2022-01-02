@@ -11,3 +11,4 @@ def isValidSubsequence(array, sequence):
             index += 1
 			
     return index == len(sequence)
+    
