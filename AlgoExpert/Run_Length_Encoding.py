@@ -8,11 +8,10 @@ def runLengthEncoding(string):
         prev_char = encoded[-1]
         count = int(encoded[-2])
 
-        if char == prev_char:
-            if count < 9:
-                encoded[-2] = str(count + 1)
-                continue
-        encoded.append('1')
-        encoded.append(char)
+        if char == prev_char and count < 9:
+            encoded[-2] = str(count + 1)
+        else:
+            encoded.append('1')
+            encoded.append(char)
 
     return ''.join(encoded)
