@@ -11,3 +11,4 @@
 | [Two Number Sum](AlgoExpert/Two_Number_Sum.py)                               |     🟢     |
 | [Palindrome Check](AlgoExpert/Palindrome_Check.py)                           |     🟢     |
 | [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py) |     🟢     |
+| [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
