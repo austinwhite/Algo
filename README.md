@@ -2,9 +2,9 @@
 
 ## AlgoExpert
 
-🟢 Easy
-🔵 Medium
-🔴 Hard
+🟢 Easy\
+🔵 Medium\
+🔴 Hard\
 ⚫️ Very Hard
 
 | Question                                                                     | Difficulty |
@@ -18,8 +18,8 @@
 
 ## Leetcode
 
-🟢 Easy
-🟠 Medium
+🟢 Easy\
+🟠 Medium\
 🔴 Hard
 
 | Question | Difficulty |
