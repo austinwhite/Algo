@@ -1,8 +1,10 @@
-# AlgoExpert
+# Algorithm Practice
 
-🟢 Easy  
-🔵 Medium  
-🔴 Hard  
+## AlgoExpert
+
+🟢 Easy
+🔵 Medium
+🔴 Hard
 ⚫️ Very Hard
 
 | Question                                                                     | Difficulty |
@@ -13,3 +15,12 @@
 | [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py) |     🟢     |
 | [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
+
+## Leetcode
+
+🟢 Easy
+🟠 Medium
+🔴 Hard
+
+| Question | Difficulty |
+| :------- | :--------: |
