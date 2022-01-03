@@ -22,5 +22,5 @@
 🟠 Medium\
 🔴 Hard
 
-| Question | Difficulty |
-| :------- | :--------: |
+|   # | Title | Difficulty |
+| --: | :---- | :--------: |
