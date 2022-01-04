@@ -15,6 +15,7 @@
 | [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py) |     🟢     |
 | [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
+| [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
 
 ## Leetcode
 
