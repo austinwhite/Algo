@@ -17,7 +17,7 @@
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
 | [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
 
-## Leetcode
+## LeetCode
 
 🟢 Easy\
 🟠 Medium\
