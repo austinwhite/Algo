@@ -23,5 +23,6 @@
 🟠 Medium\
 🔴 Hard
 
-|   # | Title | Difficulty |
-| --: | :---- | :--------: |
+|   # | Title                           | Difficulty |
+| --: | :------------------------------ | :--------: |
+|   1 | [Two-Sum](Leetcode/Two_Sum.cpp) |     🟢     |
