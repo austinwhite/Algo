@@ -1,4 +1,4 @@
-# Algorithms Practice
+# Algorithm Practice
 
 ## [AlgoExpert](https://www.algoexpert.io/product)
 
@@ -25,9 +25,10 @@
 🟠 Medium\
 🔴 Hard
 
-|   # | Title                           | Difficulty |
-| --: | :------------------------------ | :--------: |
-|   1 | [Two-Sum](Leetcode/Two_Sum.cpp) |     🟢     |
+|   # | Title                                             | Difficulty |
+| --: | :------------------------------------------------ | :--------: |
+|   1 | [Two-Sum](Leetcode/Two_Sum.cpp)                   |     🟢     |
+| 125 | [Valid Palindrome](LeetCode/Valid_Palindrome.cpp) |     🟢     |
 
 ## [Project Euler](https://projecteuler.net/)
 
