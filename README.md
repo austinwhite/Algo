@@ -1,4 +1,4 @@
-# Algorithm Practice
+# Algorithms Practice
 
 ## [AlgoExpert](https://www.algoexpert.io/product)
 
