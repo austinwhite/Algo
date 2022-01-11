@@ -1,5 +1,7 @@
-# Time Complexty: Linear, O(n) where n is the length of string
-# Space Complexty: Linear, 0(n) where n in the length of string
+# Time Complexty: O(n) where n is the length of string
+# Space Complexty: 0(1)
+#   Constant space becuase the length of the hashmap can never
+#   exeede the length of the english alphabet
 
 def firstNonRepeatingCharacter(string):
     character_count = {}
