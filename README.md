@@ -16,6 +16,7 @@
 | [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
 | [Tournament Winner](AlgoExpert/Tournament_Winner.py)                         |     🟢     |
+| [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change.py)           |     🟢     |
 | [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
 | [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End.py)           |     🔵     |
 | [Move Element To End](AlgoExpert/Move_Element_To_End.py)                     |     🔵     |
