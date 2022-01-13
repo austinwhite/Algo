@@ -17,6 +17,7 @@
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
 | [Tournament Winner](AlgoExpert/Tournament_Winner.py)                         |     🟢     |
 | [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change.py)           |     🟢     |
+| [Find Three Largest Numbers](AlgoExpert/Find_Largest_Three_Numbers.py)       |     🟢     |
 | [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
 | [First Duplicate Value](AlgoExpert/First_Duplicate_Value.py)                 |     🔵     |
 | [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End.py)           |     🔵     |
