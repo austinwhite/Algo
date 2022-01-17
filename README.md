@@ -32,6 +32,7 @@
 |   # | Title                                                                               | Difficulty |
 | --: | :---------------------------------------------------------------------------------- | :--------: |
 |   1 | [Two-Sum](Leetcode/Two_Sum.cpp)                                                     |     🟢     |
+|   9 | [Palindrome Number](LeetCode/Palindrome_Number.cpp)                                 |     🟢     |
 |  19 | [Remove Nth Node From End of List](LeetCode/Remove_Nth_Node_From_End_Of_List.cpp)   |     🟠     |
 | 125 | [Valid Palindrome](LeetCode/Valid_Palindrome.cpp)                                   |     🟢     |
 | 167 | [Two Sum II - Input Array Is Sorted](LeetCode/Two_Sum_II_Input_Array_Is_Sorted.cpp) |     🟢     |
