@@ -16,6 +16,7 @@
 | [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
 | [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
 | [Tournament Winner](AlgoExpert/Tournament_Winner.py)                         |     🟢     |
+| [Depth-First Search](AlgoExpert/Depth_First_Search.py)                       |     🟢     |
 | [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change.py)           |     🟢     |
 | [Find Three Largest Numbers](AlgoExpert/Find_Largest_Three_Numbers.py)       |     🟢     |
 | [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
