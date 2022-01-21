@@ -7,23 +7,24 @@
 🔴 Hard\
 ⚫️ Very Hard
 
-| Question                                                                     | Difficulty |
-| :--------------------------------------------------------------------------- | :--------: |
-| [Validate Subsequence](AlgoExpert/Validate_Subsequence.py)                   |     🟢     |
-| [Two Number Sum](AlgoExpert/Two_Number_Sum.py)                               |     🟢     |
-| [Palindrome Check](AlgoExpert/Palindrome_Check.py)                           |     🟢     |
-| [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py) |     🟢     |
-| [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                     |     🟢     |
-| [Generate Document](AlgoExpert/Generate_Document.py)                         |     🟢     |
-| [Tournament Winner](AlgoExpert/Tournament_Winner.py)                         |     🟢     |
-| [Depth-First Search](AlgoExpert/Depth_First_Search.py)                       |     🟢     |
-| [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change.py)           |     🟢     |
-| [Find Three Largest Numbers](AlgoExpert/Find_Largest_Three_Numbers.py)       |     🟢     |
-| [Monotonic Array](AlgoExpert/Monotonic_Array.py)                             |     🔵     |
-| [Invert Binary Tree](AlgoExpert/Invert_Binary_Tree.py)                       |     🔵     |
-| [First Duplicate Value](AlgoExpert/First_Duplicate_Value.py)                 |     🔵     |
-| [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End.py)           |     🔵     |
-| [Move Element To End](AlgoExpert/Move_Element_To_End.py)                     |     🔵     |
+| Question                                                                               | Difficulty |
+| :------------------------------------------------------------------------------------- | :--------: |
+| [Validate Subsequence](AlgoExpert/Validate_Subsequence.py)                             |     🟢     |
+| [Two Number Sum](AlgoExpert/Two_Number_Sum.py)                                         |     🟢     |
+| [Palindrome Check](AlgoExpert/Palindrome_Check.py)                                     |     🟢     |
+| [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py)           |     🟢     |
+| [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                               |     🟢     |
+| [Generate Document](AlgoExpert/Generate_Document.py)                                   |     🟢     |
+| [Remove Duplicates From Linked List](AlgoExpert/Remove_Duplicates_From_Linked_List.py) |     🟢     |
+| [Tournament Winner](AlgoExpert/Tournament_Winner.py)                                   |     🟢     |
+| [Depth-First Search](AlgoExpert/Depth_First_Search.py)                                 |     🟢     |
+| [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change.py)                     |     🟢     |
+| [Find Three Largest Numbers](AlgoExpert/Find_Largest_Three_Numbers.py)                 |     🟢     |
+| [Monotonic Array](AlgoExpert/Monotonic_Array.py)                                       |     🔵     |
+| [Invert Binary Tree](AlgoExpert/Invert_Binary_Tree.py)                                 |     🔵     |
+| [First Duplicate Value](AlgoExpert/First_Duplicate_Value.py)                           |     🔵     |
+| [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End.py)                     |     🔵     |
+| [Move Element To End](AlgoExpert/Move_Element_To_End.py)                               |     🔵     |
 
 ## [LeetCode](https://leetcode.com/)
 
