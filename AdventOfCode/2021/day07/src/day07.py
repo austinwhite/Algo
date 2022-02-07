@@ -1,4 +1,4 @@
-from statistics import median
+from statistics import median, mean
 
 infile = "../input/data.in"
 positions = []
@@ -35,7 +35,14 @@ def part2_naive():
     return min_fuel
 
 def part2_optimal():
-    pass
+    min_fuel = 0
+    avg = round(mean(positions))-1
+
+    for position in positions:
+        min_fuel += natural_number_sum(abs(position - avg))
+
+    return min_fuel
 
 print("Part 1:", part1())
 print("Part 2:", part2_naive())
+print("Part 2:", part2_optimal())
