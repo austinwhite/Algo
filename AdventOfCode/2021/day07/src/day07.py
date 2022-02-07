@@ -20,7 +20,7 @@ def part1():
     median_position = int(median(positions))
     return calculate_fuel(median_position)
     
-def part2():
+def part2_naive():
     min_fuel = 1 << 100
     min_position = min(positions)
     max_position = max(positions)
@@ -34,5 +34,8 @@ def part2():
 
     return min_fuel
 
+def part2_optimal():
+    pass
+
 print("Part 1:", part1())
-print("Part 2:", part2())
+print("Part 2:", part2_naive())
