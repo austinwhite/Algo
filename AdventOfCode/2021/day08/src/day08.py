@@ -1,0 +1,2 @@
+infile = "../input/data.in"
+
