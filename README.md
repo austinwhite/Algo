@@ -50,7 +50,5 @@
 
 ## [Advent Of Code](https://adventofcode.com/)
 
-| Year                      |
-| :------------------------ |
-| [2020](AdventOfCode/2020) |
-| [2021](AdventOfCode/2021) |
+[2020](AdventOfCode/2020)
+[2021](AdventOfCode/2021)
