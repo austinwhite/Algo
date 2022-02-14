@@ -50,5 +50,5 @@
 
 ## [Advent Of Code](https://adventofcode.com/)
 
-[2020](AdventOfCode/2020)
+[2020](AdventOfCode/2020)\
 [2021](AdventOfCode/2021)
