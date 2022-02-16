@@ -16,6 +16,7 @@
 | [First Non-Repeating Character](AlgoExpert/First_Non_Repeating_Character.py)           |     🟢     |
 | [Run-Length Encoding](AlgoExpert/Run_Length_Encoding.py)                               |     🟢     |
 | [Generate Document](AlgoExpert/Generate_Document.py)                                   |     🟢     |
+| [Product Sum](AlgoExpert/Product_Sum.py)                                               |     🟢     |
 | [Remove Duplicates From Linked List](AlgoExpert/Remove_Duplicates_From_Linked_List.py) |     🟢     |
 | [Tournament Winner](AlgoExpert/Tournament_Winner.py)                                   |     🟢     |
 | [Depth-First Search](AlgoExpert/Depth_First_Search.py)                                 |     🟢     |
