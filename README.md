@@ -24,6 +24,7 @@
 | [Caeser Cipher Encrypter](AlgoExpert/Ceaser_Cypher_Encryptor.py)                       |     🟢     |
 | [Monotonic Array](AlgoExpert/Monotonic_Array.py)                                       |     🔵     |
 | [BST Traversal](AlgoExpert/BST_Traversal.py)                                           |     🔵     |
+| [Linked List Construction](AlgoExpert/Linked_List_Construction.py)                     |     🔵     |
 | [Invert Binary Tree](AlgoExpert/Invert_Binary_Tree.py)                                 |     🔵     |
 | [First Duplicate Value](AlgoExpert/First_Duplicate_Value.py)                           |     🔵     |
 | [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End.py)                     |     🔵     |
