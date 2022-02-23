@@ -22,6 +22,7 @@
 | [Depth-First Search](AlgoExpert/Depth_First_Search)                                 |     🟢     |
 | [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change)                     |     🟢     |
 | [Branch Sums](AlgoExpert/Branch_Sums)                                               |     🟢     |
+| [Node Depths](AlgoExpert/Node_Depths)                                               |     🟢     |
 | [Nth-Fibonacci](AlgoExpert/Nth_Fibonacci)                                           |     🟢     |
 | [Find Three Largest Numbers](AlgoExpert/Find_Largest_Three_Numbers)                 |     🟢     |
 | [Caeser Cipher Encrypter](AlgoExpert/Ceaser_Cypher_Encryptor)                       |     🟢     |
