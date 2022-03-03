@@ -22,6 +22,7 @@
 | [Depth-First Search](AlgoExpert/Depth_First_Search)                                 |     🟢     |
 | [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change)                     |     🟢     |
 | [Branch Sums](AlgoExpert/Branch_Sums)                                               |     🟢     |
+| [Binary Search](AlgoExpert/Binary_Search)                                           |     🟢     |
 | [Node Depths](AlgoExpert/Node_Depths)                                               |     🟢     |
 | [Bubble Sort](AlgoExpert/Bubble_Sort)                                               |     🟢     |
 | [Nth-Fibonacci](AlgoExpert/Nth_Fibonacci)                                           |     🟢     |
