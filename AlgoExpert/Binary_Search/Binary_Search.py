@@ -1,7 +1,7 @@
 # Time: O(log(n)) where n is the length of array
 # Space: O(log(n)) where n is the length of array
 
-def binarySearch(array, target, start=0, end=0):
+def binarySearch(array, target):
     return binarySearchHelper(array, target, 0, len(array) - 1)
 	
 def binarySearchHelper(array, target, left, right):
