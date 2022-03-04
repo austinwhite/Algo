@@ -31,6 +31,7 @@
 | [Monotonic Array](AlgoExpert/Monotonic_Array)                                       |     🔵     |
 | [BST Traversal](AlgoExpert/BST_Traversal)                                           |     🔵     |
 | [Linked List Construction](AlgoExpert/Linked_List_Construction)                     |     🔵     |
+| [BST Construction](AlgoExpert/BST_Construction)                                     |     🔵     |
 | [Invert Binary Tree](AlgoExpert/Invert_Binary_Tree)                                 |     🔵     |
 | [First Duplicate Value](AlgoExpert/First_Duplicate_Value)                           |     🔵     |
 | [Remove Kth Node From End](AlgoExpert/Remove_Kth_Node_From_End)                     |     🔵     |
