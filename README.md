@@ -45,7 +45,7 @@
 
 |   # | Title                                                                           | Difficulty |
 | --: | :------------------------------------------------------------------------------ | :--------: |
-|   1 | [Two-Sum](Leetcode/Two_Sum)                                                     |     🟢     |
+|   1 | [Two-Sum](LeetCode/Two_Sum)                                                     |     🟢     |
 |   9 | [Palindrome Number](LeetCode/Palindrome_Number)                                 |     🟢     |
 |  19 | [Remove Nth Node From End of List](LeetCode/Remove_Nth_Node_From_End_Of_List)   |     🟠     |
 | 125 | [Valid Palindrome](LeetCode/Valid_Palindrome)                                   |     🟢     |
