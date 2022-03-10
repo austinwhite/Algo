@@ -20,6 +20,7 @@
 | [Remove Duplicates From Linked List](AlgoExpert/Remove_Duplicates_From_Linked_List) |     🟢     |
 | [Tournament Winner](AlgoExpert/Tournament_Winner)                                   |     🟢     |
 | [Depth-First Search](AlgoExpert/Depth_First_Search)                                 |     🟢     |
+| [Find Closest Value in BST](AlgoExpert/Find_Closest_Value_In_BST)                   |     🟢     |
 | [Non-Construtible Change](AlgoExpert/Non_Constructiblec_Change)                     |     🟢     |
 | [Branch Sums](AlgoExpert/Branch_Sums)                                               |     🟢     |
 | [Binary Search](AlgoExpert/Binary_Search)                                           |     🟢     |
